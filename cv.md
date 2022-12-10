@@ -22,7 +22,13 @@ ___
 * VS code
 ___
 ##Code example:
-
+```
+function multiply(a, b){
+  return a * b
+}
+```
+___
+Experience
 ___
 ##Education:
 * Tver State Agricultural Academy
