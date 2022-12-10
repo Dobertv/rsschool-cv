@@ -28,7 +28,11 @@ function multiply(a, b){
 }
 ```
 ___
-Experience
+##Experience
+* **Researcher** Oct 2019 - Present
+    * Business Analysis
+    * Development of program and design documentation
+    * Modeling and documenting software
 ___
 ##Education:
 * Tver State Agricultural Academy
