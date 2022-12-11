@@ -11,9 +11,11 @@ dobertv@gmail.com
 #### Discord at rs-school serv
 Dmitry Butcin (@Dobertv)
 ___
+
 ## About me
 Try myself in something new, wanna to be a programmer. Challenge accepted.
 ___
+
 ## Skill Highlights
 * HTML, CSS (in progress)
 * Git, Github (in progress)
@@ -21,6 +23,7 @@ ___
 * Agile
 * VS code
 ___
+
 ## Code example:
 
 ```
@@ -29,12 +32,14 @@ function multiply(a, b){
 }
 ```
 ___
+
 ## Experience
 * **Researcher** Oct 2019 - Present
     * Business Analysis
     * Development of program and design documentation
     * Modeling and documenting software
 ___
+
 ## Education:
 * Tver State Agricultural Academy
 
@@ -43,6 +48,7 @@ ___
     * `ITVDN:` C# Starter
     * `Stepik:` Art of soft skills: selfskills for life and study
 ___
+
 ## Languages:
 English - A2
 Russian - native
