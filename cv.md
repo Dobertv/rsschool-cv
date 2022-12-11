@@ -7,11 +7,11 @@
 ### Contact information:
 **Location:** Tver, Russia
 
-**Phone** +7-915-731-85-59
+**Phone:** +7-915-731-85-59
 
-**Email** dobertv@gmail.com
+**Email:** dobertv@gmail.com
 
-**Discord at rs-school serv** Dmitry Butcin (@Dobertv)
+**Discord at rs-school serv:** Dmitry Butcin (@Dobertv)
 
 ---
 
