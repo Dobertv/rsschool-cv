@@ -31,7 +31,7 @@ Try myself in something new, wanna to be a programmer. Challenge accepted.
 
 ### Code example:
 
-```
+```javascript
 function multiply(a, b){
   return a * b
 }
