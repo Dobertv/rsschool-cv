@@ -1,4 +1,4 @@
-# Dmitry Butsin
+# Dmitry Butcin
 ### Junior Frontend Developer
 ![avatar](/images/IMG_AVA.jpg)
 
