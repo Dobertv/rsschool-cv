@@ -15,12 +15,12 @@
 
 ---
 
-### About me
+### About me:
 Try myself in something new, wanna to be a programmer. Challenge accepted.
 
 ---
 
-### Skill Highlights
+### Skill Highlights:
 * HTML, CSS (in progress)
 * Git, Github (in progress)
 * Photoshop (in progress)
@@ -39,7 +39,7 @@ function multiply(a, b){
 
 ---
 
-### Experience
+### Experience:
 * **Researcher** Oct 2019 - Present
     * Business Analysis
     * Development of program and design documentation
