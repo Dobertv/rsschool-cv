@@ -50,5 +50,5 @@ ___
 ___
 
 ### Languages:
-**English** - A2
-**Russian** - native
+* **English** - A2
+* **Russian** - native
