@@ -22,6 +22,7 @@ ___
 * VS code
 ___
 ## Code example:
+
 ```
 function multiply(a, b){
   return a * b
