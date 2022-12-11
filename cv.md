@@ -1,8 +1,8 @@
 # Dmitry Butsin
-![avatar](https://disk.yandex.ru/i/TyQJBmvsc8jvtQ)
-
 ### Junior Frontend Developer
+![avatar](/images/IMG_AVA.jpg)
 
+---
 
 ### Contact information:
 **Location:** Tver, Russia
@@ -13,10 +13,12 @@
 
 **Discord at rs-school serv** Dmitry Butcin (@Dobertv)
 
+---
 
 ### About me
 Try myself in something new, wanna to be a programmer. Challenge accepted.
 
+---
 
 ### Skill Highlights
 * HTML, CSS (in progress)
@@ -25,6 +27,7 @@ Try myself in something new, wanna to be a programmer. Challenge accepted.
 * Agile
 * VS code
 
+---
 
 ### Code example:
 
@@ -34,6 +37,7 @@ function multiply(a, b){
 }
 ```
 
+---
 
 ### Experience
 * **Researcher** Oct 2019 - Present
@@ -41,6 +45,7 @@ function multiply(a, b){
     * Development of program and design documentation
     * Modeling and documenting software
 
+---
 
 ### Education:
 * Tver State Agricultural Academy
@@ -50,6 +55,7 @@ function multiply(a, b){
     * `ITVDN:` C# Starter
     * `Stepik:` Art of soft skills: selfskills for life and study
 
+---
 
 ### Languages:
 * **English** - A2
